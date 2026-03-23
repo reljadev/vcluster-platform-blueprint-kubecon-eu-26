@@ -110,7 +110,7 @@ DOMAIN_NAME='172.18.255.254.traefik.me'
 ARGOCD_WIZARD_ACCOUNT_PASSWORD='Sw0rdF1sh!42_1'
 
 ### Git repository values
-ARGOCD_GIT_HTTPS_URL='https://github.com/<REPLACE_ME>'
+ARGOCD_GIT_HTTPS_URL='https://github.com/reljadev/vcluster-platform-blueprint-kubecon-eu-26'
 ```
 
 After that, run the init command to create a `config.yaml`:
